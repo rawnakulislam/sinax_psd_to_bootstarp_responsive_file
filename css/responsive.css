@@ -1,0 +1,235 @@
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .galbtn {
+	margin-left: 10px;
+}    
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.galbtn { 
+	margin-left: 1px !important;
+}
+.companytext {
+    padding: 15px 10px 15px 10px;
+	
+}
+    .companytext h5 {
+	font-size: 28px;
+	font-weight: 700;
+	padding-top: 1px;
+}
+.companytext h6 {
+	font-size: 14px;
+	padding-right: 20px;
+}
+    .companybtn {
+	margin-top: 10px;
+}
+   .companyimageee {
+	padding-top: 50px;
+}
+    .newstext h4 {
+	font-size: 16px;
+}
+    .fottertop1 p {
+	padding: 40px 20px 30px 0;
+}
+    .footertop3 button {
+	margin-left: 80%;
+	margin-top: 1px;
+}
+    .copyright a {
+	padding-left: 4px;
+}
+    .heading h3 {
+	font-size: 35px;
+}
+    .servicepart {
+	padding: 50px 0 50px 20px;
+}
+    .firstslide h1 {
+	font-size: 60px;
+}
+    .navbar-nav .nav-link {
+	text-align: center;
+}
+.navbar-toggler-icon {
+	color: #fff;
+}
+    .navbar-toggler.collapsed:focus {
+        outline: none;
+	border: none;
+}
+    
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+.galbtn { 
+	margin-left: 1px !important;
+}
+.companytext {
+    padding: 15px 10px 15px 10px;
+	
+}
+    .companytext h5 {
+	font-size: 28px;
+	font-weight: 700;
+	padding-top: 1px;
+}
+.companytext h6 {
+	font-size: 14px;
+	padding-right: 20px;
+}
+    .companybtn {
+	margin-top: 10px;
+}
+   .companyimageee {
+	padding-top: 50px;
+}
+    .newstext h4 {
+	font-size: 16px;
+}
+    .fottertop1 p {
+	padding: 40px 20px 30px 0;
+}
+    .footertop3 button {
+}
+    .copyright a {
+	padding-left: 4px;
+}
+    .heading h3 {
+	font-size: 35px;
+}
+    .servicepart {
+	padding: 50px 0 50px 20px;
+}
+    .firstslide h1 {
+	font-size: 60px;
+}
+    .navbar-nav .nav-link {
+	text-align: center;
+}
+.navbar-toggler-icon {
+	color: #fff;
+}
+    .navbar-toggler.collapsed:focus {
+        outline: none;
+	border: none;
+}
+.mixitext h5 {
+	font-size: 35px;
+}
+.footersocial {
+	padding-bottom: 50px;
+}
+    .footertop3 {
+	padding-top: 50px;
+}
+    .footerbottom p {
+	text-align: center;
+}
+    .copyright ul{
+        text-align: center;
+    }
+    .brandd{
+        padding-top: 50px;
+    }
+}
+
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.galbtn { 
+	margin-left: 1px !important;
+}
+.companytext {
+	padding: 20px 10px 15px 31px;
+}
+    .companytext h5 {
+	font-size: 28px;
+	font-weight: 700;
+	padding-top: 1px;
+}
+.companytext h6 {
+	font-size: 14px;
+	padding-right: 20px;
+}
+    .companybtn {
+	margin-top: 10px;
+}
+   .companyimageee {
+	padding-top: 50px;
+}
+    .newstext h4 {
+	font-size: 16px;
+}
+    .fottertop1 p {
+	padding: 40px 20px 30px 0;
+}
+    .footertop3 button {
+}
+    .copyright a {
+	padding-left: 4px;
+}
+    .heading h3 {
+	font-size: 35px;
+}
+    .servicepart {
+	padding: 50px 0 50px 20px;
+}
+    .firstslide h1 {
+	font-size: 23px;
+}
+    .left.slick-arrow {
+	display: none !important;
+}
+    .right.slick-arrow {
+	display: none !important;
+}
+    .navbar-nav .nav-link {
+	text-align: center;
+}
+.navbar-toggler-icon {
+	color: #fff;
+}
+    .navbar-toggler.collapsed:focus {
+        outline: none;
+	border: none;
+}
+.mixitext h5 {
+	font-size: 35px;
+}
+.footersocial {
+	padding-bottom: 50px;
+}
+    .footertop3 {
+	padding-top: 50px;
+}
+    .footerbottom p {
+	text-align: center;
+        font-size: 14px;
+}
+    .copyright ul{
+        text-align: center;
+    }
+.brand {
+	display: none;
+}
+
+
+
+
+
+
+}
+
+
+
+
